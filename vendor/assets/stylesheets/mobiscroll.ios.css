@@ -52,11 +52,11 @@
     -webkit-border-radius: 0;
     -webkit-box-shadow: 0 1px 1px rgba(255,255,255,0.3);
 }
-.ios td: first-child .dwwl {
+.ios td:first-child .dwwl {
     border-radius: 3px 0 0 3px;
     -webkit-border-radius: 3px 0 0 3px;
 }
-.ios td: last-child .dwwl {
+.ios td:last-child .dwwl {
     border-radius: 0 3px 3px 0;
     -webkit-border-radius: 0 3px 3px 0;
 }
