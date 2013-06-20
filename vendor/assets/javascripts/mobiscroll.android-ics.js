@@ -6,11 +6,13 @@
             rows: 5,
             width: 70,
             height: 36,
-            showLabel: false
+            showLabel: false,
+            useShortLabels: true
         }
-    }
+    };
 
     $.mobiscroll.themes['android-ics'] = theme;
     $.mobiscroll.themes['android-ics light'] = theme;
 
 })(jQuery);
+
