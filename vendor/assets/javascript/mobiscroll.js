@@ -14,6 +14,7 @@
 //= require mobiscroll.android-ics
 //= require mobiscroll.android
 //= require mobiscroll.ios
+//= require mobiscroll.ios7
 //= require mobiscroll.jqm
 //= require mobiscroll.jqmobi
 //= require mobiscroll.jqmwidget
