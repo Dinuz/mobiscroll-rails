@@ -19,6 +19,10 @@ Add the following directive to your Javascript manifest file (application.js):
 
     //= require mobiscroll
 
+And if you want to use the jquery mobile widgets add also:
+
+    //= require mobiscroll.jquerymobile
+
 If you want to include a localization file, also add the following directive:
 
     //= require mobiscroll/<locale>.js
