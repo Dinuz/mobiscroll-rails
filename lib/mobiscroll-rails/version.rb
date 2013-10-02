@@ -1,5 +1,5 @@
 module Mobiscroll
   module Rails
-    VERSION = "2.7.0"
+    VERSION = "2.7.2"
   end
 end
